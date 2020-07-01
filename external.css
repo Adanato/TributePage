@@ -1,0 +1,49 @@
+header {
+    background-color: #77FFFA;
+    font-size: 120px;
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+   body { 
+     background-color: #E6E6FA; 
+    }
+    footer {
+    background-color:grey;
+    padding-top:500px;
+  }
+  #image {
+    display: block;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    height: 1000px;
+    border: 5px solid #77FFFA;
+    max-width:  40%;
+    height: auto;
+  }
+  .center { 
+    margin-left: auto ;
+    margin-right: auto ;
+    text-align: center;
+  }
+  .font { 
+    font-family: 'Roboto', sans-serif;
+  }
+  #information-tab {
+    background-color: #77FFFA;
+    font-family: Roboto,sans-serif;
+    font-size: 60px;
+    width: 550px;
+   
+  }
+  main {
+    background-color: #DEFB;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 20px;
+     font-size: 20px
+  }
+  
